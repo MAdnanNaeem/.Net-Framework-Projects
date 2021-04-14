@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Concepts
 {
-    public class ImportedItem:Item
+    public class ImportedItem:Item,ReturnableItem
     {
         private double _taxRate;
 
@@ -18,12 +18,17 @@ namespace OOP_Concepts
 
         public override string Display()
         {
-            return base.Display()+" "+ this._taxRate;
+            return base.Display()+" "+ this._taxRate +"  "+ this.ReturnPolicy();
         }
 
         public override double CalculatePrice()
         {
             return this.Price + (this.Price * this.TaxRate) / 100;
+        }
+
+        public string ReturnPolicy()
+        {
+            return "Imported Items can be return able";
         }
 
         public double TaxRate { get => _taxRate; set => _taxRate = value; }

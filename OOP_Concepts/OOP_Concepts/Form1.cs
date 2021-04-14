@@ -30,12 +30,14 @@ namespace OOP_Concepts
         private void Form1_Load(object sender, EventArgs e)
         {
             inventory.addItem();
-             foreach (Item I in inventory.MyItem)
+             foreach (Item I in inventory.MyItem )
             {
                 rtb_item.Text += I.Display();
                 rtb_item.Text += "  "+I.CalculatePrice();
                 rtb_item.Text += "\n";
             }
+
+           
         }
     }
 }
