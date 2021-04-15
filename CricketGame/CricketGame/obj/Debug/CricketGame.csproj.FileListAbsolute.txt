@@ -1,0 +1,10 @@
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
