@@ -8,3 +8,43 @@ C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGam
 C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
 C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.exe
 C:\Users\M ADNAN NAEEM\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\hp\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\hp\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\hp\Desktop\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\hp\Desktop\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\hp\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\hp\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\hp\source\repos\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\hp\source\repos\CricketGame\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\bin\Debug\CricketGame.exe.config
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\bin\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.CricketGame.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.exe
+C:\Users\M ADNAN NAEEM\Desktop\Dox\Semester 6\SCD\CricketGame\CricketGame\obj\Debug\CricketGame.pdb

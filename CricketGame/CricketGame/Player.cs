@@ -41,9 +41,9 @@ namespace CricketGame
        
 
         public virtual string Display()
-        { 
-
-            return Name + "       " + Age + "       " + Role + "       " + Style + "       " + Experience + "        " + PRecord ;
+        {
+            
+            return "  "+Name + "               " + Age + "              " + Role + "         " + Style + "        " + Experience + "       " + PRecord ;
         }
 
        

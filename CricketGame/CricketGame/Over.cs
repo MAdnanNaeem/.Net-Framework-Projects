@@ -8,17 +8,17 @@ namespace CricketGame
 {
    public class Over 
     {
-        double _overs;
+        int _overs;
 
         public Over()
         {
         }
 
-        public Over(double overs) 
+        public Over(int overs)
         {
-            this.Overs = overs;
+            Overs = overs;
         }
 
-        public double Overs { get => _overs; set => _overs = value; }
+        public int Overs { get => _overs; set => _overs = value; }
     }
 }

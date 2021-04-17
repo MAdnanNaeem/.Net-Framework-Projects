@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CricketGame
 {
-    class Team
+    public class Team
     {
 
         string _teamName;
