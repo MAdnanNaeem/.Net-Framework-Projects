@@ -1,0 +1,13 @@
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\bin\Debug\BankDB.mdf
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\bin\Debug\BankDB_log.ldf
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking_System.GUI.Login.resources
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\M ADNAN NAEEM\source\repos\Banking System\Banking System\obj\Debug\Banking System.pdb
