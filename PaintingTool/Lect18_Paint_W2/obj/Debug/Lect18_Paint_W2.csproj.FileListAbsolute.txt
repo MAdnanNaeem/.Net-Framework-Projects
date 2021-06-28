@@ -1,0 +1,30 @@
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe.config
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.pdb
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Form1.resources
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Properties.Resources.resources
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.GenerateResource.cache
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.exe
+C:\Users\Arslan\source\repos\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.pdb
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe.config
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.pdb
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Form1.resources
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Properties.Resources.resources
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.exe
+C:\Users\hp\Desktop\Lect18_Paint_W2\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.pdb
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe.config
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.exe
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\bin\Debug\Lect18_Paint_W2.pdb
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.AssemblyReference.cache
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Form1.resources
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.Properties.Resources.resources
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.GenerateResource.cache
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.csproj.CoreCompileInputs.cache
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.exe
+D:\Github Repositories\Pain_Software\Lect18_Paint_W2\obj\Debug\Lect18_Paint_W2.pdb
